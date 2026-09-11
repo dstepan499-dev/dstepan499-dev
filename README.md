@@ -1,4 +1,4 @@
-# Hi, I'm Stepan 👋
+# Hi, I'm Stepan
 
 I am a **Junior Go Developer** focused on backend development, automation, and building reliable tools.
 
