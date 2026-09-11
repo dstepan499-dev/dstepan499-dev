@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Stepan 👋
 
-<!--
-**dstepan499-dev/dstepan499-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Junior Go Developer** focused on backend development, automation, and building reliable tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Language:** Go (Golang)
+- **Tools & Workflow:** Git, GitHub, Docker
+
+---
+
+### Current Focus
+- Developing Telegram bots and automation tools in Go.
+- Exploring REST API architecture and backend best practices.
+- Deepening my understanding of Go concurrency patterns and service design.
+
+---
+
+### Get in Touch
+- **Telegram:** [@omniscient_sunfish](https://t.me/omniscient_sunfish)
